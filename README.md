@@ -1,3 +1,5 @@
+# web link :  https://bihar-food-and-animal-feed-web.onrender.com/
+
 # Pashu Seva Mandi: Integrated Cattle Nutrition & Smart Fodder Portal
 
 Pashu Seva Mandi is an enterprise-grade, high-performance, and localized Agri-Tech web application designed to support dairy farmers and cattle rearers across Bihar, India. The platform integrates a real-time verified cattle feed marketplace (Mandi) with advanced scientific tools including a customized Feed Rationing Scheduler, a Feed Quality Adulteration Estimator, a Seasonal Feeding Advisor, Breed-Specific Care, Mandi Price Analytics, a local Chopal Forum, and an Emergency Veterinary Dispatch module.
